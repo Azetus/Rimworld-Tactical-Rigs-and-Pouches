@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <TRP_Apparel_ShieldBeltWithTacticalPouches.label>護盾腰帶(戰術附包)</TRP_Apparel_ShieldBeltWithTacticalPouches.label>
+    <TRP_Apparel_ShieldBeltWithTacticalPouches.description>一種力場裝置，附帶兩個戰術附包，可以掛載其他附件。它會阻擋遠方的子彈或手榴彈，但無法防禦近戰攻擊或熱能。此外，它的穿戴者可以使用遠程武器向外開火射擊。如果被 EMP 衝擊到會無法運作。</TRP_Apparel_ShieldBeltWithTacticalPouches.description>
+
+    <TRP_Apparel_TacticalChestRig.label>戰術胸掛</TRP_Apparel_TacticalChestRig.label>
+    <TRP_Apparel_TacticalChestRig.description>壹個戰術胸掛，附帶有4個大型附包，可以快速取用其中存儲的工具。</TRP_Apparel_TacticalChestRig.description>
+
+    <TRP_Apparel_TacticalLegRig.label>戰術腿包</TRP_Apparel_TacticalLegRig.label>
+    <TRP_Apparel_TacticalLegRig.description>壹個可以固定在大腿上的戰術腿包，可以快速取用其中存儲的工具。</TRP_Apparel_TacticalLegRig.description>
+</LanguageData>

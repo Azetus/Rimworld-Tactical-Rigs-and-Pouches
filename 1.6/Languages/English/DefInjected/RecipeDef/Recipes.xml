@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <TRP_Upgrade_ShieldBeltToTactical.label>modify shield belt with pouches</TRP_Upgrade_ShieldBeltToTactical.label>
+    <TRP_Upgrade_ShieldBeltToTactical.description>Upgrade a standard shield belt by integrating reinforced pouches and recalibrating the shield modules. This modification allows the wearer to carry additional tactical gear and fire ranged weapons from within the shield.</TRP_Upgrade_ShieldBeltToTactical.description>
+    <TRP_Upgrade_ShieldBeltToTactical.jobString>modifying shield belt.</TRP_Upgrade_ShieldBeltToTactical.jobString>
+</LanguageData>

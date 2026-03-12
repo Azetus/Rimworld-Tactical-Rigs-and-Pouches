@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <TRP_Apparel_ShieldBeltWithTacticalPouches.label>Shield belt (tactical pouches)</TRP_Apparel_ShieldBeltWithTacticalPouches.label>
+    <TRP_Apparel_ShieldBeltWithTacticalPouches.description>A personal projectile-repulsion device with two tactical pouches for mounting other utility items. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks, extreme heat, or fire. Unlike standard shield belts, this model allows the wearer to fire out. It shuts down instantly if hit by EMP.</TRP_Apparel_ShieldBeltWithTacticalPouches.description>
+
+
+    <TRP_Apparel_TacticalChestRig.label>Tactical chest rig</TRP_Apparel_TacticalChestRig.label>
+    <TRP_Apparel_TacticalChestRig.description>A tactical load-bearing rig equipped with four large pouches, designed for rapid access to stored utility items.</TRP_Apparel_TacticalChestRig.description>
+
+    <TRP_Apparel_TacticalLegRig.label>Tactical leg rig</TRP_Apparel_TacticalLegRig.label>
+    <TRP_Apparel_TacticalLegRig.description>A tactical pouch system secured to the thigh, allowing the wearer to quickly deploy stored utility items on the move.</TRP_Apparel_TacticalLegRig.description>
+
+
+</LanguageData>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <TRP_Upgrade_ShieldBeltToTactical.label>改装护盾腰带（添加附包）</TRP_Upgrade_ShieldBeltToTactical.label>
+    <TRP_Upgrade_ShieldBeltToTactical.description>通过添加加固附包和调整护盾模块，将一个标准护盾腰带升级为战术型。改装后可以在维持护盾功能的同时携带额外的战术设备，并且允许穿戴者使用远程武器向外射击。</TRP_Upgrade_ShieldBeltToTactical.description>
+    <TRP_Upgrade_ShieldBeltToTactical.jobString>正在改装护盾腰带</TRP_Upgrade_ShieldBeltToTactical.jobString>
+</LanguageData>
