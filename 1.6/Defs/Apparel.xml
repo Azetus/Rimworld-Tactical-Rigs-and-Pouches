@@ -270,7 +270,7 @@
             </recipeUsers>
             <useIngredientsForColor>true</useIngredientsForColor>
             <skillRequirements>
-                <Crafting>4</Crafting>
+                <Crafting>2</Crafting>
             </skillRequirements>
             <displayPriority>300</displayPriority>
         </recipeMaker>
