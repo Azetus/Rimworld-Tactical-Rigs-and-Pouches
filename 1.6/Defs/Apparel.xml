@@ -78,7 +78,6 @@
                 <blocksRangedWeapons>false</blocksRangedWeapons>
             </li>
         </comps>
-        <allowedArchonexusCount>1</allowedArchonexusCount>
         <tradeTags>
             <li>Armor</li>
         </tradeTags>
@@ -154,7 +153,6 @@
                 <storageCapacity>4</storageCapacity>
             </li>
         </comps>
-        <allowedArchonexusCount>1</allowedArchonexusCount>
         <tradeTags>
             <li>Clothing</li>
         </tradeTags>
@@ -228,7 +226,6 @@
                 <storageCapacity>2</storageCapacity>
             </li>
         </comps>
-        <allowedArchonexusCount>1</allowedArchonexusCount>
         <tradeTags>
             <li>Clothing</li>
         </tradeTags>
