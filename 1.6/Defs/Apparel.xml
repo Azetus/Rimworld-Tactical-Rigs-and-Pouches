@@ -178,7 +178,7 @@
             <EquipDelay>1.5</EquipDelay>
         </statBases>
         <equippedStatOffsets>
-            <RangedCooldownFactor>-0.1</RangedCooldownFactor>
+            <RangedCooldownFactor>-0.05</RangedCooldownFactor>
         </equippedStatOffsets>
 
         <costStuffCount>55</costStuffCount>
