@@ -4,10 +4,7 @@
     <ThingDef ParentName="ApparelBase">
         <defName>TRP_Apparel_ShieldBeltWithTacticalPouches</defName>
         <label>Shield belt (tactical pouches)</label>
-        <description>A personal projectile-repulsion device with two tactical pouches for mounting
-            other utilities. It will attempt to stop incoming projectiles or shrapnel, but does
-            nothing against melee attacks, extreme heat, or fire. Unlike standard shield belts, this
-            model allows the wearer to fire out. It shuts down instantly if hit by EMP.</description>
+        <description>A personal projectile-repulsion device with two tactical pouches for mounting other utility items. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks, extreme heat, or fire. Unlike standard shield belts, this model allows the wearer to fire out. It shuts down instantly if hit by EMP.</description>
         <thingClass>Apparel</thingClass>
         <graphicData>
             <texPath>Shield_Belt_With_Pouch_Icon</texPath>
@@ -26,32 +23,11 @@
         <thingSetMakerTags>
             <li>RewardStandardQualitySuper</li>
         </thingSetMakerTags>
-        <costStuffCount>10</costStuffCount>
-        <stuffCategories>
-            <li>Fabric</li>
-            <li>Leathery</li>
-        </stuffCategories>
-        <costList>
-            <ComponentIndustrial>3</ComponentIndustrial>
-            <Steel>50</Steel>
-            <Plasteel>20</Plasteel>
-        </costList>
-        <recipeMaker>
-            <unfinishedThingDef>UnfinishedBelt</unfinishedThingDef>
-            <researchPrerequisite>ShieldBelt</researchPrerequisite>
-            <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
-            <workSkill>Crafting</workSkill>
-            <effectWorking>Smith</effectWorking>
-            <soundWorking>Recipe_Machining</soundWorking>
-            <recipeUsers>
-                <li>TableMachining</li>
-            </recipeUsers>
-            <useIngredientsForColor>false</useIngredientsForColor>
-            <skillRequirements>
-                <Crafting>6</Crafting>
-            </skillRequirements>
-            <displayPriority>300</displayPriority>
-        </recipeMaker>
+
+        <smeltProducts>
+            <Plasteel>5</Plasteel>
+            <Steel>25</Steel>
+        </smeltProducts>
         <thingCategories>
             <li>ApparelUtility</li>
         </thingCategories>
