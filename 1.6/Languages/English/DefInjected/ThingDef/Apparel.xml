@@ -10,5 +10,13 @@
     <TRP_Apparel_TacticalLegRig.label>Tactical leg rig</TRP_Apparel_TacticalLegRig.label>
     <TRP_Apparel_TacticalLegRig.description>A tactical pouch system secured to the thigh, allowing the wearer to quickly deploy stored utility items on the move.</TRP_Apparel_TacticalLegRig.description>
 
+    <TRP_Apparel_Medieval_LegPouch.label>Medieval leg pouch</TRP_Apparel_Medieval_LegPouch.label>
+    <TRP_Apparel_Medieval_LegPouch.description>A small pocket secured to the leg with leather straps. Despite its limited single-slot capacity, its compact design ensures it does not hinder the wearer's movements.</TRP_Apparel_Medieval_LegPouch.description>
+
+    <TRP_Apparel_Medieval_MessengerSatchel.label>Medieval messenger satchel</TRP_Apparel_Medieval_MessengerSatchel.label>
+    <TRP_Apparel_Medieval_MessengerSatchel.description>A tough, oversized satchel featuring a cross-body strap. A standard-issue gear for medieval couriers and travelers, providing two additional utility slots.</TRP_Apparel_Medieval_MessengerSatchel.description>
+
+    <TRP_Apparel_Neolithic_TribalSatchel.label>Tribal satchel</TRP_Apparel_Neolithic_TribalSatchel.label>
+    <TRP_Apparel_Neolithic_TribalSatchel.description>A primitive satchel fashioned from raw hides using crude stitching techniques. It is roughly made and lacks any structural support.</TRP_Apparel_Neolithic_TribalSatchel.description>
 
 </LanguageData>
