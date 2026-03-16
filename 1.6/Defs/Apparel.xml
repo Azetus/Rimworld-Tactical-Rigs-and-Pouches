@@ -16,8 +16,8 @@
             <Mass>3</Mass>
             <WorkToMake>14000</WorkToMake>
             <Flammability>0.4</Flammability>
-            <EnergyShieldRechargeRate>0.25</EnergyShieldRechargeRate>
-            <EnergyShieldEnergyMax>2</EnergyShieldEnergyMax>
+            <EnergyShieldRechargeRate>0.1</EnergyShieldRechargeRate>
+            <EnergyShieldEnergyMax>1.1</EnergyShieldEnergyMax>
             <EquipDelay>2</EquipDelay>
         </statBases>
         <thingSetMakerTags>
